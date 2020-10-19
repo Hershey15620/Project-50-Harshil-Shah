@@ -1,0 +1,17 @@
+h1{
+    color:aquamarine;
+    border: solid;
+    background-color: blueviolet;
+}
+.header{
+    background-color:lightgreen;
+    display: flex;
+    justify-content: space-between;
+    border: ridge;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
